@@ -8,11 +8,11 @@ The dataset used for this "no-show appointment data analysis" was information ga
 Research Questions for Analysis
 From the dataset that was used for this data analysis, the eqight questions were answered in this no-show appointment analysis are:
 
-Find the relationship between age and showing up for medical appointment (no show)?
-What gender has high number of no-show and show?
-Did those patients that receive SMS show up for the appointment or now?
-What is the relationship between No show and scholarship?
-What is the relationship between hypertension and Diabetes?
-What is the relationship between Alcoholism and Diabetes?
-What is the relationship between Alcoholism and Hipertension?
-What is the relationship between Age and Hipertension?
+> Find the relationship between age and showing up for medical appointment (no show)?
+> What gender has high number of no-show and show?
+> Did those patients that receive SMS show up for the appointment or now?
+> What is the relationship between No show and scholarship?
+> What is the relationship between hypertension and Diabetes?
+> What is the relationship between Alcoholism and Diabetes?
+> What is the relationship between Alcoholism and Hipertension?
+> What is the relationship between Age and Hipertension?
